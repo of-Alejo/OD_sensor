@@ -1,7 +1,3 @@
-# Emuladores de Sensores de Calidad del Agua
-
-Este repositorio contiene el firmware y la documentación para la emulación en hardware de sensores fisicoquímicos utilizados en la red de monitoreo de calidad del agua. La emulación permite replicar el comportamiento eléctrico y cinético de sensores industriales para facilitar el desarrollo y pruebas del nodo principal.
-
 ## Sensor de Oxígeno Disuelto (OD)
 
 - **Función:** Mide la concentración de oxígeno presente en el agua.
